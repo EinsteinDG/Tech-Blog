@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pythonidaer/mvc-tech-blog.git"
+    "url": "git+https://github.com/EinsteinDG/Tech-Blog"
   },
   "keywords": [],
-  "author": "Jonathan Hammond",
+  "author": "EinsteinDG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Pythonidaer/mvc-tech-blog/issues"
+    "url": "https://github.com/EinsteinDG/Tech-Blogs"
   },
-  "homepage": "https://github.com/Pythonidaer/mvc-tech-blog#readme",
+  "homepage": "https://github.com/EinsteinDG/Tech-Blog/readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.1",
