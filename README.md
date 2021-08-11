@@ -9,7 +9,7 @@ Create an application that can be used to write, save, and delete notes. This ap
 
 
 
-## Click [Here](https://the-note-app.herokuapp.com/) to deployed application.
+## Click [https://techy-blog-app.herokuapp.com/](https://techy-blog-app.herokuapp.com/) to deployed application.
 
 
 
